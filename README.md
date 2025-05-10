@@ -1,4 +1,4 @@
-m# 🎥 Predição de Avaliações de K-Dramas com Aprendizado de Máquina
+# 🎥 Predição de Avaliações de K-Dramas com Aprendizado de Máquina
 
 Este projeto tem como objetivo prever a média de avaliações de usuários para os 100 K-Dramas mais populares do site **MyDramaList**, uma rede social voltada para fãs de mídia asiática. Com o crescente impacto global dos dramas coreanos, entender os fatores que influenciam sua recepção pode ser decisivo para orientar futuras produções.
 
