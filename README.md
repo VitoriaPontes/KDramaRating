@@ -8,7 +8,7 @@ Criar modelos preditivos para estimar a nota média dos K-Dramas a partir de car
 
 ## 📊 Base de Dados
 
-- **Fonte:** [MyDramaList - Top Dramas](https://mydramalist.com/shows/top)
+- **Fonte:** [MyDramaList - Top Dramas](https://mydramalist.com/shows/popular)
 - **Variável alvo:** `Rating` (média das avaliações dos usuários)
 - **Principais variáveis independentes:**
   - Nome da obra
